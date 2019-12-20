@@ -20,7 +20,10 @@ body{
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
-
+}
+#cabecera #logo{
+    width: 100px;
+    vertical-align: middle;
 }
 
 #container{
