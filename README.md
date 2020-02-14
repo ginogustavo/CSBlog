@@ -8,5 +8,4 @@
 - youtube
 - udemy
 - coursera
-- platzi
 
